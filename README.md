@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-Project for FCC using React.
+Project for FCC using ReactJS.
 
 View: <a href="https://nivwer.github.io/react-markdown-previewer/">https://nivwer.github.io/react-markdown-previewer/</a> 
 
